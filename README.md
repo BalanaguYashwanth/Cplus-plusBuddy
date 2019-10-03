@@ -1,2 +1,10 @@
 # Cplus-plusBuddy
 It is complete on Android studio platform for espically code learners.
+
+TOPICS COVERED :
+
+BASIC PROGRAMMING
+CONTROL STASTEMENTS : SELECTIVE EXECUTION
+CONTROL STATEMENTS : REPEATED EXECUTION
+PYRAMID PROGRAMS
+Projects
